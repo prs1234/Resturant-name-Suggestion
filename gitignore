@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+*.sqlite3
+*.db
+.DS_Store
+.idea/
+.vscode/
+*.log
+.cache/
+.dvc/cache/
+.dvc/tmp/
+.Untitled.ipynb
+.Untitled1.ipynb
